@@ -1,151 +1,152 @@
-﻿Complex Word,Complex Word Corpus Frequency,Replacements,Example Sentence,Quality,Coverage,Complexity
-option,49,{'val': 1942},Hans första option var inte ett nazistiskt styre även om han fördrog det framför ett liberalt eller kommunistiskt.,1,0,1
-rutten,28,{'fördärvad': 2, 'murken': 0, 'taskig': 88, 'usel': 120},Stillastående vatten blir snart skämt och ruttet.,0,1,0
-skiss,26,{'utkast': 52},Detta för oss in på  som jag ser det  den andra bristen i LOs och SAPs skiss till löntagarfonder.,1,0,0
-arrestera,7,{'anhålla': 4, 'frihetsberöva': 2, 'gripa': 43},Men jag tror polisen bara arresterade en av dom den här gången.,1,1,0
-allergi,169,{'överkänslighet': 14},Jag har allergi mot pälsdjur.,1,1,0
-fortgå,30,{'fortskrida': 3, 'fortsätta': 3737, 'förlöpa': 0, 'löpa': 70, 'pågå': 68},Sharons retorik blev allt grövre i takt med att fredsprocessen fortgick.,1,1,1
-smörja,266,{'inolja': 0, 'olja': 1538},Jag smörjer dem och beströr dem ofta med mjöl innan jag trycker ner degen.,1,1,0
-lokalisera,22,{'finna': 739, 'hitta': 130, 'spåra': 65},Polisen lokaliserade under dagen de män som flickorna uppger har drogat dem.,1,1,1
-modifiera,21,{'anpassa': 203, 'förändra': 744, 'ändra': 1627},Vi modifierar nu smittkoppsmodellen till influensa.,1,1,1
-korrekthet,16,{'riktighet': 3},Facebook applikation  vars korrekthet kan ifrågasättas.,1,1,1
-karakterisera,0,{'beskriva': 961, 'känneteckna': 2, 'utmärka': 15},Han har studerat statsvetenskap vid Helsingfors universitet och identifierar sig med socialdemokraterna och karakteriserar sig som en teknokrat.,1,0,1
-tortera,17,{'plåga': 87},När de hade anlänt blev de attackerade Völsung dödades i strid och hans bröder torterades senare till döds.,1,0,0
-förorsaka,3,{'bringa': 36, 'framkalla': 124, 'orsaka': 145, 'vålla': 2, 'åsamka': 6},Händelsen LU förorsakade vid lunchtid totalstopp på riksväg 26.,1,1,1
-skingra,20,{'splittra': 41, 'upplösa': 24},När trupper från armén dök upp i pansarvagnar och spärrade av staden skingrades demonstranterna.,1,0,0
-uträtta,67,{'bestyra': 0, 'genomdriva': 13, 'genomföra': 562, 'göra': 37181, 'utföra': 432, 'åstadkomma': 180},Du har uträttat många fantastiska saker.,1,0,1
-tillfällighet,41,{'slump': 336},Att de flesta skilsmässor i Sverige sker efter semestern är knappast en tillfällighet.,1,1,0
-plåga,87,{'anfäkta': 0, 'besvära': 6, 'misshandla': 27, 'terrorisera': 13, 'tortera': 17},Men Holm fortsatte bara att plåga hustrun och barnen så att familjesituationen blev värre än förut.,0,0,0
-avslappnad,254,{'cool': 1295},Det var riktigt trevligt att läsa intervjun med Mikael Sjövall i lördagens ÅU. En avslappnad pratstund med ÅU.,0,0,0
-nu,83977,{'genast': 1121, 'omedelbart': 450},Sätt spår i framtiden nu,1,1,0
-hej,2602,{'goddag': 16, 'goddagens': 1, 'halloj': 1, 'hallå': 366, 'hejsan': 48, 'helloj': 1, 'mors': 123, 'morsning': 1, 'tja': 252, 'tjaa': 6, 'tjabba': 0},Hej hej på er.,1,1,0
-uppmärksam,103,{'alert': 26, 'lyhörd': 49, 'observant': 11, 'vaken': 1285},Vi ska vara uppmärksamma mot politiker som på ett dolt sätt försöker underblåsa misshälligheter mellan folk.,1,1,0
-dundra,17,{'dån': 4, 'dåna': 0, 'mullra': 6},En barsk röst dundrade oavbrutet men talaren var dold av mängden Kompromissarna säger att vi är isolerade. Bry er inte om vad de säger.,1,1,0
-hallå,366,{'halloj': 1, 'hej': 2602, 'hejsan': 48},Erik hallå vad gör du,0,0,0
-utkant,11,{'gränsområde': 0, 'periferi': 4, 'ytterkant': 13},Parken låg förr i utkanten av Lund.,1,1,0
-överträda,0,{'överskrida': 22},Den som överträder förbudet riskerar böter på 2 500 kronor.,0,0,0
-undervärdera,1,{'underskatta': 35},Vägverket undervärderar kostnaderna för en Öckeröbro.,1,1,1
-godhet,38,{'barmhärtighet': 7, 'snällhet': 8, 'välvilja': 27, 'vänlighet': 34},Den berättar enkelt om ondska och godhet mörker och ljus.,1,1,0
-obekant,17,{'främmande': 420, 'okänd': 271},Datorn är inget obekant arbetsredskap för Folktandvårdens anställda.,1,1,0
-precision,79,{'exakthet': 9, 'noggrannhet': 20},Med klinisk precision klingar såväl piano och stråkar som mystiska ljudlandskap in i kroppen.,1,0,0
-artikulera,4,{'uttala': 199},Någonstans måste man som medborgare kunna artikulera kritik mot makten.,1,1,1
-stråla,22,{'radiera': 0},Jag går och går och går och värmen strålar från mina hälar upp genom mina ben och jag har aldrig känt mej så rofylld förut i hela mitt liv.,1,1,0
-beväpna,2,{'bepansra': 0, 'bestycka': 0, 'rusta': 51},Planet kan även beväpnas för att användas som lätt attackplan.,1,1,0
-ljuda,51,{'klinga': 7, 'klämta': 0, 'låta': 2754, 'tona': 66},Det går så hett till att inbrottslarmet börjar ljuda.,1,1,1
-sammanslagning,42,{'fusion': 118, 'förening': 150, 'samgående': 4, 'union': 71},Det grundades år 1901 genom en sammanslagning av 13 mindre tillverkare.,1,0,1
-kvot,15,{'andel': 317},Beloppet av fältet definieras som kvoten mellan kraftens belopp och laddningens storlek.,1,1,1
-plågsam,45,{'smärtsam': 52},Min ensamhet känns plågsam.,1,1,0
-konstgjord,27,{'artificiell': 20, 'onaturlig': 17, 'syntetisk': 20},Problemet är bara att en indelning i perioder som decennier är konstgjord.,1,1,0
-inrymma,0,{'härbergera': 0, 'inkludera': 71},Projekten inrymmer studier av kroppssammansättning fysisk aktivitet och insulinkänslighet hos unga kvinnor med Typ1 diabetes.,1,0,1
-debitera,4,{'påföra': 0},Årsagiften 50 kr debiteras separat.,0,0,1
-försena,9,{'fördröja': 28},Tyvärr händer det också att hjälpen inte alltid når fram i tid humanitära insatser avbryts eller försenas på grund av beväpnat våld.,1,0,0
-omkomma,2,{'avlida': 63, 'stupa': 16},En 65årig man omkom vid en trafikolycka på en mindre väg utanför Horred i går eftermiddag.,1,0,1
-lindra,98,{'dämpa': 107, 'hjälpa': 3676, 'lätta': 512, 'mildra': 9},Salvan lindrar även besvär som skavsår sprickor på fingertopparna stickor i fingrarna samt skärsår.,1,1,0
-rotera,26,{'snurra': 160, 'vrida': 204},Bilden roteras 90 grader medurs.,1,1,0
-urskilja,69,{'skönja': 17},Är vi verkligen så bra på att urskilja autentiska väskor bland budgetalternativ,1,1,0
-tolerera,14,{'tåla': 99},Där har man enats i frågan om att aldrig tolerera våld i samband med matcher.,1,0,0
-påbud,12,{'dekret': 7},Det utgick ett påbud att alla fönster skulle mörkläggas.,1,0,1
-sätt,2015,{'fason': 13, 'metod': 358, 'taktik': 144},Det finns två olika sätt att möra kött.,0,1,0
-applicera,592,{'påföra': 0},Kokain kan också injiceras under huden eller i en ven eller appliceras direkt på slemhinnorna i munnen ändtarmen eller slidan.,0,0,0
-blomma,411,{'blomstra': 21},Mammas fina gammeldags rosor blommar nu.,1,1,0
-uthärda,6,{'disk': 236, 'fördraga': 1, 'genomlida': 40, 'tåla': 99, 'utstå': 97},Kanske var det därför hon också uthärdade mannens galenskap och våld.,0,1,0
-oriktig,0,{'felaktig': 129, 'inkorrekt': 6, 'osann': 6},Frågan var vilka som givit reportrarna på de tidningarna oriktig information om massförstörelsevapnen och Valerie Plames namn.,1,0,0
-beskåda,60,{'bese': 0, 'betrakta': 125, 'iaktta': 26, 'se': 2998, 'titta': 3957, 'åse': 3},Allt från mord och dansande ryska sjömän till svävande damer har kunnat beskådas i den annars så lugna sommarstaden.,1,0,0
-färja,62,{'båt': 507},Mot Vesterålen finns det färjor mellan Fiskebøl och Melbu.,1,0,0
-sammanträda,5,{'mötas': 153, 'träffa': 4},Forskningsrådet kommer att sammanträda den 22 juni.,1,1,1
-instruera,14,{'dirigera': 7, 'handleda': 3, 'leda': 918, 'lära': 2592, 'undervisa': 95, 'utbilda': 190},Åt helvete är det om Bodström blandat sig i för att ett annat land instruerat honom att göra så.,0,0,1
-oväsen,24,{'buller': 55, 'dån': 4, 'oljud': 20, 'skrammel': 8, 'skrän': 9},Plötsligt blev det ett fruktansvärt oväsen rassel och skrammel av kätting väsande av vatten och miljoner gnistor flög upp in i den darrande rökpelare som stod något på lut ovanför fartyget.,0,1,0
-stinka,20,{'osa': 21},Vi vill inte att folk ska tycka att vi stinker.,0,1,0
-rangordna,14,{'klassindela': 0, 'numrera': 3},GP försöker rangordna möjligheterna.,1,1,1
-underminera,15,{'försvaga': 21, 'sabotera': 21, 'undergräva': 6, 'urholka': 9},Händelser som Natoattacken underminerar de ansträngningarna.,1,1,1
-befästa,13,{'cementera': 5, 'fastslå': 16, 'fastställa': 49, 'klubba': 66, 'stärka': 345, 'säkerställa': 91, 'säkra': 343, 'trygga': 122},Det belgiska Airpower befäster ytterligare sin ställning som koncernens vinstrikaste produktionsenhet.,0,1,1
-ödelägga,9,{'fördärva': 9, 'förstöra': 536, 'totalförstöra': 1},Israel demolerar det palestinska jordbruket och ödelägger ekonomin med hjälp av bulldozrar bomber och blockader.,1,1,1
-allé,11,{'trädrad': 0},Mellan körbanorna på östra delen av Valhallavägen går en allé med en kombinerad gång och cykelväg.,1,1,1
-herravälde,16,{'dominans': 75, 'imperium': 50, 'styre': 140, 'övertag': 46},Själv är jag fångad i min sambos herravälde.,1,1,1
-avvärja,13,{'avstyra': 11, 'förhindra': 419, 'hejda': 74, 'parera': 30},En 27åring fick skador i händerna när han försökte avvärja knivhuggen.,1,1,1
-deprimerad,271,{'ledsen': 2226, 'nedstämd': 74, 'nere': 2955},Hade inte hans sinnesstämning varit så deprimerad skulle han ha känt lite av den gamla kittlingen.,1,1,0
-uppgradera,144,{'aktualisera': 1, 'uppdatera': 1096},Depressionen ökade i styrka och uppgraderades till en tropisk storm senare samma dag.,0,0,0
-associera,29,{'förbinda': 4, 'förknippa': 36, 'koppla': 306, 'sammankoppla': 4},Sackaros associeras också med lägre hjärtfrekvens minskat ansiktsuttryck och mindre motorisk aktivitet efter administration.,1,1,1
-smeka,43,{'karessera': 0, 'kela': 27},Erna smekte honom försiktigt över handryggen men det märkte han inte heller.,0,0,0
-förordna,0,{'tillsätta': 102, 'utse': 131},Ledamöter och ersättare förordnas av regeringen för en tid av högst tre år.,1,1,1
-rytm,55,{'puls': 223, 'takt': 347, 'upprepning': 32},Havets dån är både skrämmande och roingivande i sin monotona rytm.,1,1,0
-vålla,2,{'framkalla': 124, 'föranleda': 3, 'förorsaka': 3, 'orsaka': 145, 'åsamka': 6},Det måste finnas en utlösande infektion som vållar sjukdomen.,1,1,0
-förolämpa,13,{'förnedra': 28, 'förödmjuka': 4, 'kränka': 52, 'skymfa': 2, 'såra': 105},Du tror att du kan förolämpa och förödmjuka och hota dina gäster.,1,1,0
-skicklighet,50,{'färdighet': 60, 'förmåga': 706, 'handlag': 3, 'kompetens': 296},Monas skicklighet som partiledare sätts på prov nu.,1,1,0
-eskortera,3,{'leda': 918},Clemenceau eskorteras av två robotjagare samt förrådsfartyget Meuse.,1,1,1
-paj,298,{'trasig': 281},Jag trevar efter avstängningsknappen jag minns att den är paj jag når inte sladden jo kanske om jag bara ...,1,0,0
-förutsägelse,4,{'prognos': 22},Vi beskådar nu samma fenomen med förutsägelser om arbetskraftens rörlighet från de nya medlemsstaterna.,1,0,0
-befalla,0,{'beordra': 18, 'kommendera': 1},Hon befallde sen flickan att tvätta av sina händer ta på sig kappan och komma med.,1,1,0
-understödja,7,{'hjälpa': 3676, 'stötta': 238},Jag understödjer henne på denna punkt.,1,0,1
-tonvikt,28,{'betoning': 61},Att kommissionen lägger tonvikt på att skapa välstånd i Europa är uppskattat och behövligt.,1,0,1
-ackumulera,0,{'hopa': 1, 'lagra': 57, 'samla': 619},I dag är det mycket svårt att ackumulera pensionsrättigheter som intjänas i olika länder efter varandra.,1,1,1
-värka,46,{'mola': 1},Sår ytlig skada på kroppen som kan blöda och värka.,1,0,0
-klassificera,6,{'gradera': 3, 'indela': 3, 'klassa': 31, 'ordna': 443},I båda länderna klassificerar miljöskyddsmyndigheterna varg som direkt hotad på de nationella rödlistorna.,1,1,1
-kretsa,14,{'cirkla': 6, 'cirkulera': 41, 'snurra': 160},Runt omkring oss kretsar stewarden Salvatore uppmärksamt.,0,0,0
-irritera,42,{'besvära': 6, 'enervera': 0, 'förarga': 5, 'förtörna': 0, 'reta': 43, 'störa': 281},Ytterligare ett skäl är att en sådan skattehöjning skulle irritera människor.,1,1,0
-hög,2941,{'påtänd': 6, 'påverkad': 129},Enligt tidningen People ska han ha varit hög på marijuana redan under premiären av dem tredje Harry Potterfilmen Fången från Azkaban.,1,1,0
-dofta,102,{'lukta': 274},Det har blivit allt viktigare att vara fräsch och att dofta gott i varje skrymsle.,1,1,0
-svida,97,{'bränna': 463},Såren svider.,1,0,0
-darra,26,{'skaka': 160, 'skälva': 2},Skam till sägandes läppen började darra på honom.,1,1,0
-fadd,6,{'unken': 16},Pastasalladen är lite smaklös och fadd borde kryddas.,0,0,0
-fuktig,98,{'våt': 41},En bra pajdeg är gul i färgen och lite fuktig.,1,0,0
-kärl,43,{'behållare': 41, 'bunke': 260, 'cistern': 0, 'krus': 6, 'skål': 706, 'tillbringare': 6, 'tråg': 4},Mindre kärl är vackra prydnadsföremål men kan också komma till användning i ett nutida hem.,0,1,0
-allergisk,282,{'överkänslig': 48},Ida är allergisk mot myggbett.,1,0,0
-stelna,152,{'hårdna': 2, 'koagulera': 10, 'styvna': 0},När lavan stelnar omvandlas den till berg.,1,1,0
-svälla,66,{'expandera': 55, 'jäsa': 283, 'tjockna': 5, 'växa': 733},Om fröerna sväller och spricker upp så är de inte för gamla.,1,1,0
-kräkas,218,{'spy': 326, 'uppstöta': 0, 'vomera': 2},Hon kräktes gallan.,1,1,0
-separera,58,{'avskilja': 4, 'dela': 3163, 'skilja': 237, 'särskilja': 24, 'åtskilja': 2}, En ny påfart ska kunna separera trafiken till Köpstaden från bostadstrafiken och därmed avlasta Ekenleden förklarar Christer Olsson på Flygfältsbyrån som varit med och tagit fram förslagen.,1,1,0
-tysta,140,{'dämpa': 107, 'hyssja': 1},Han har i alla fall tystat den tidigare kritiken med sitt aktiva sätt att sköta matchningen under spel.,1,1,0
-filtrera,20,{'sila': 40},Oftast filtreras också vinet före buteljering ett förfarande som tyvärr tar bort en del av smakämnena.,1,1,1
-borsta,379,{'skrubba': 84},Liam borstar tänderna med sin eltandborste han fick i julklapp.,1,1,0
-dån,4,{'buller': 55, 'dunder': 43, 'muller': 8, 'oväsen': 24},Ett dån från rymdraketen mullrar ut i högtalarna.,1,1,0
-förfoga,7,{'disponera': 12},Eleverna förfogar över egna bärbara datorer under tre år,0,0,1
-steka,333,{'bryna': 16},När man steker ägg blir de bäst om stekpannan inte är alltför het.,1,1,0
-enastående,56,{'bra': 46725, 'exceptionellt': 32, 'fantastisk': 2309, 'lysande': 296, 'storartad': 16, 'suverän': 124, 'utmärkt': 601, 'utomordentlig': 15, 'ypperlig': 28},Det är en enastående förnämlig tonsättare för mig har hans musik gjort ett väldigt överraskande intryck eftersom den är så varierad i ett flödande parlando.,1,1,0
-fullborda,13,{'avsluta': 820, 'fullfölja': 75, 'fullgöra': 8, 'fullända': 5, 'färdigställa': 48, 'genomföra': 562, 'slutföra': 61},Mannen fullbordade ett rån och sprang sedan från platsen.,1,1,0
-kidnappa,22,{'röva': 8},En dag kidnappar han ett barn från ett dagis säger Johan Gry.,1,0,1
-gnida,15,{'gno': 3, 'gnugga': 105, 'putsa': 66, 'stryka': 172},Huden fuktas och gnids in med en tablett acetylsalicylsyra på stickstället eller en tablett löses i ca 30 ml vatten och det bitna området baddas med en bomullstuss eller liknande.,1,1,0
-utrusta,7,{'förse': 54},Samtidigt utrustade polisen honom med skyddsväst och tårgasspray,1,1,0
-dröjsmål,3,{'fördröjning': 37, 'försening': 41},Jag misstänker ändå att det just är en sådan taktik som ligger bakom dröjsmålet av arbetet med införandet av vårdval.,1,1,0
-smycke,264,{'bijouteri': 0},Lina M. är designern som skapar unika smycken till ditt bröllop.,1,1,0
-härma,84,{'efterapa': 5, 'efterlikna': 37, 'imitera': 16}, Mamma lillebror härmar en fågel,1,1,0
-addera,67,{'summera': 81},Nästa steg är att dela n med två om det är jämnt eller multiplicera det med tre och addera ett om det är udda.,0,0,0
-häkta,2,{'anhålla': 4},Det är dock ovanligt att man häktar en tidigare ostraffad 15åring.,1,1,0
-förstora,112,{'utvidga': 55, 'utöka': 177, 'vidga': 47},Håll ner ctrl och snurra på mushjulet så kan du förstora eller förminska text och bilder.,1,0,0
-spegelbild,52,{'reflexion': 6},Ett sådant rollbyte äger rum i slutet av Lagerkvists novell  då ynglingen ser sin spegelbild i källan.,1,1,0
-trendig,63,{'moderiktig': 7},Tantblomman har blivit trendig,1,1,0
-oavbruten,2,{'fortlöpande': 21, 'fortskridande': 5, 'ihållande': 19, 'kontinuerlig': 27, 'oupphörlig': 0, 'stadigvarande': 6, 'ständig': 332, 'utgörs': 58},Globalisering och framgångsrik kamp mot inflationen skulle leda till oavbruten ekonomisk uppgång.,1,1,0
-tillfreds,91,{'belåten': 96, 'nöjd': 79},Inte för att det alls spelar någon roll men jag känner mig mer än tillfreds med mitt inköp.,1,1,0
-anskaffa,2,{'förvärva': 9, 'införskaffa': 233, 'inhämta': 16, 'köpa': 49, 'rekvirera': 0, 'skaffa': 1263},Enligt Artikel I får en fördragsstat under inga omständigheter anskaffa eller inneha biologiska vapen,1,1,1
-lim,97,{'klister': 33},I övre hörnet av de falska finländska sedlarna har hologrammet fästs med lim.,1,1,0
-sammandrag,10,{'sammanfattning': 324, 'summering': 48},Artikeln är ett sammandrag från Klimat och Sårbarhetsutredningens bilaga B34 skriven av Elisabet Lindgren...,1,1,1
-aveny,9,{'boulevard': 6},Här ligger Avenida de los Presidentes en bred trädkantad aveny med lyxiga byggnader från 1800 och 1900talen.,1,1,1
-smaklös,20,{'gräslig': 35},Får man ha sån smaklös frisyr när man borde vara vuxen,1,0,0
-försegla,5,{'barrikera': 0, 'försluta': 4, 'plombera': 0, 'tillsluta': 1},Det handlar om övertäckningsplanen som går ut på att bygga en ny betonghall för att försegla den kärnreaktor i Tjernobyl som havererade våren 1986.,1,1,0
-böna,22,{'vädja': 25},Andra kan hamna hos dem som kör med sina lärlingar och där de får böna och be för att få göra något vettigt.,1,1,1
-differentiera,0,{'skilja': 237},Man differentierar åldersintervallen och definierar ett barn som en minderårig till och med 12 års ålder.,1,1,0
-klibba,4,{'kleta': 36},Leran klibbade under hennes skor.,1,1,0
-utfrågning,18,{'förhör': 60, 'hearing': 32},Det blev en långdragen utfrågning om allt från hennes uppväxt i Småland till den kristna uppfostran skolan och hennes förhållande till killar under tonåren.,1,1,0
-avbrott,85,{'uppehåll': 252},Det var tur vi fick ett avbrott för paus.,1,1,0
-nominera,98,{'föreslå': 110, 'utnämna': 10, 'utse': 131},Regeringen har nominerat Cecilia Malmström till ny svensk EUkommissionär.,1,1,0
-lukt,107,{'arom': 24, 'doft': 943, 'stank': 49},Han stod orörlig och kände värmen stiga från det nya lagret en svagt stickande lukt av bränt trä.,1,1,0
-anteckna,61,{'notera': 173, 'skriva': 321},Maja Lundgren vet mer och antecknar allt hon ser och hör.,1,1,0
-anseende,47,{'aktning': 7, 'rykte': 267},Givetvis finns risk för att Barncancerföreningen kan ha förlorat i anseende.,1,1,1
-peta,157,{'pilla': 307},Drar tillbaka handen knycker oavhängigt på huvudet och fortsätter att peta i näsan.,1,1,0
-manifestera,20,{'demonstrera': 80, 'uttrycka': 435},Sjukdomen manifesteras ibland av akuta komplikationer som tarmobstruktion perforation fistlar eller gastrointestinal blödning.,1,1,1
-underlåta,3,{'försumma': 13},I det här sammanhanget kan jag emellertid inte underlåta att peka på de borgerliga partiernas agerande eller snarare brist på agerande i den här frågan.,1,0,1
-pyssla,594,{'dona': 81, 'fixa': 0, 'knåpa': 103, 'syssla': 125},Hennes intressen är naturen katterna och att pyssla med växter.,1,1,0
-såra,105,{'skada': 361},Hannarna kan till och med såra varandra under striden.,1,1,0
-framhäva,113,{'betona': 39, 'framhålla': 21, 'främja': 128, 'poängtera': 162, 'påpeka': 301, 'understryka': 42},Clinton var noga med att inte framhäva någondera sidan framför den andra under besöket i Belfast och senare på dagen i Londonderry.,1,1,0
-blomstra,21,{'blomma': 411},Kinas ekonomi blomstrar och det är väl ingen vågad gissning att många kineser kommer hit och sätter sprätt på sina YEN.,1,1,0
-avbilda,16,{'måla': 1342, 'porträttera': 1, 'skissa': 46, 'återge': 47},Det förra århundradet hade Gunder avbildat konstnärinnan Anna Maria Ehrenstrahl i ett porträtt.,1,0,0
-dumpa,58,{'kasta': 322, 'lämna': 2541, 'slänga': 1304, 'släppa': 1240, 'tippa': 95},De desperata föräldrarna fann ingen annan råd än att en dimmig kväll 1937 dumpa bilen i sjön.,1,1,0
-förkorta,24,{'avkorta': 0, 'minska': 1149},Arbetsministeriet vill förkorta tiden för civiltjänstgöring.,1,1,0
-kylig,40,{'kall': 857, 'kulen': 7, 'sval': 79},Om det är kyligt eller regnigt så tag med varma överdragskläder.,1,1,0
-frånta,6,{'beröva': 11},Genom detta besked har Folkpartiet fråntagit parterna möjligheterna att finna en lösning genom förhandling.,1,1,0
-påhitt,101,{'påfund': 31},Bara ännu ett påhitt av beslutsfattare för att se till att kvinnor underordnar sig.,1,1,0
-mager,69,{'benig': 7, 'förtorkad': 0, 'knapphändig': 5, 'krank': 0, 'nätt': 43, 'slank': 141, 'smal': 634, 'spenslig': 0, 'spinkig': 8, 'tanig': 6, 'tunn': 382, 'tärd': 3, 'undernärd': 14, 'utmärglad': 9},Möjligen påminner den magre i sin skelettlikhet alltför mycket om döden.,1,1,0
-kortvarig,29,{'flyktig': 17, 'temporär': 29, 'tillfällig': 139, 'övergående': 32},Som om det kortvariga uppvaknandet aldrig skett.,1,1,0
-attentat,22,{'terrordåd': 38, 'våldsangrepp': 1, 'våldsdåd': 42},Baraks förlust har tre huvudförklaringar Israelernas besvikelse över att hans fredspolitik bara ledde till en palestinsk uppresning med nästan dagliga attentat och attacker mot israeler.,1,1,0
-förhöra,13,{'utfråga': 0},Under förmiddagen förhörde polisen vittnen vid Kyrktorget.,1,1,0
-förträfflig,45,{'bra': 46725, 'kanon': 692, 'lysande': 296, 'suverän': 124, 'utmärkt': 601},Han lagar förträfflig falafel och gör finfin fetaröra.,1,1,0
+﻿Column1;Column2;Column3;Column4;Column5;Column6;Column7
+option;49;{'val': 1942};Hans första option var inte ett nazistiskt styre även om han fördrog det framför ett liberalt eller kommunistiskt.;1;0;1
+rutten;28;{'fördärvad': 2, 'murken': 0, 'taskig': 88, 'usel': 120};Stillastående vatten blir snart skämt och ruttet.;0;1;0
+skiss;26;{'utkast': 52};Detta för oss in på  som jag ser det  den andra bristen i LOs och SAPs skiss till löntagarfonder.;1;0;0
+arrestera;7;{'anhålla': 4, 'frihetsberöva': 2, 'gripa': 43};Men jag tror polisen bara arresterade en av dom den här gången.;1;1;0
+allergi;169;{'överkänslighet': 14};Jag har allergi mot pälsdjur.;1;1;0
+fortgå;30;{'fortskrida': 3, 'fortsätta': 3737, 'förlöpa': 0, 'löpa': 70, 'pågå': 68};Sharons retorik blev allt grövre i takt med att fredsprocessen fortgick.;1;1;1
+smörja;266;{'inolja': 0, 'olja': 1538};Jag smörjer dem och beströr dem ofta med mjöl innan jag trycker ner degen.;1;1;0
+lokalisera;22;{'finna': 739, 'hitta': 130, 'spåra': 65};Polisen lokaliserade under dagen de män som flickorna uppger har drogat dem.;1;1;1
+modifiera;21;{'anpassa': 203, 'förändra': 744, 'ändra': 1627};Vi modifierar nu smittkoppsmodellen till influensa.;1;1;1
+korrekthet;16;{'riktighet': 3};Facebook applikation  vars korrekthet kan ifrågasättas.;1;1;1
+karakterisera;0;{'beskriva': 961, 'känneteckna': 2, 'utmärka': 15};Han har studerat statsvetenskap vid Helsingfors universitet och identifierar sig med socialdemokraterna och karakteriserar sig som en teknokrat.;1;0;1
+tortera;17;{'plåga': 87};När de hade anlänt blev de attackerade Völsung dödades i strid och hans bröder torterades senare till döds.;1;0;0
+förorsaka;3;{'bringa': 36, 'framkalla': 124, 'orsaka': 145, 'vålla': 2, 'åsamka': 6};Händelsen LU förorsakade vid lunchtid totalstopp på riksväg 26.;1;1;1
+skingra;20;{'splittra': 41, 'upplösa': 24};När trupper från armén dök upp i pansarvagnar och spärrade av staden skingrades demonstranterna.;1;0;0
+uträtta;67;{'bestyra': 0, 'genomdriva': 13, 'genomföra': 562, 'göra': 37181, 'utföra': 432, 'åstadkomma': 180};Du har uträttat många fantastiska saker.;1;0;1
+tillfällighet;41;{'slump': 336};Att de flesta skilsmässor i Sverige sker efter semestern är knappast en tillfällighet.;1;1;0
+plåga;87;{'anfäkta': 0, 'besvära': 6, 'misshandla': 27, 'terrorisera': 13, 'tortera': 17};Men Holm fortsatte bara att plåga hustrun och barnen så att familjesituationen blev värre än förut.;0;0;0
+avslappnad;254;{'cool': 1295};Det var riktigt trevligt att läsa intervjun med Mikael Sjövall i lördagens ÅU. En avslappnad pratstund med ÅU.;0;0;0
+nu;83977;{'genast': 1121, 'omedelbart': 450};Sätt spår i framtiden nu;1;1;0
+hej;2602;{'goddag': 16, 'goddagens': 1, 'halloj': 1, 'hallå': 366, 'hejsan': 48, 'helloj': 1, 'mors': 123, 'morsning': 1, 'tja': 252, 'tjaa': 6, 'tjabba': 0};Hej hej på er.;1;1;0
+uppmärksam;103;{'alert': 26, 'lyhörd': 49, 'observant': 11, 'vaken': 1285};Vi ska vara uppmärksamma mot politiker som på ett dolt sätt försöker underblåsa misshälligheter mellan folk.;1;1;0
+dundra;17;{'dån': 4, 'dåna': 0, 'mullra': 6};En barsk röst dundrade oavbrutet men talaren var dold av mängden Kompromissarna säger att vi är isolerade. Bry er inte om vad de säger.;1;1;0
+hallå;366;{'halloj': 1, 'hej': 2602, 'hejsan': 48};Erik hallå vad gör du;0;0;0
+utkant;11;{'gränsområde': 0, 'periferi': 4, 'ytterkant': 13};Parken låg förr i utkanten av Lund.;1;1;0
+överträda;0;{'överskrida': 22};Den som överträder förbudet riskerar böter på 2 500 kronor.;0;0;0
+undervärdera;1;{'underskatta': 35};Vägverket undervärderar kostnaderna för en Öckeröbro.;1;1;1
+godhet;38;{'barmhärtighet': 7, 'snällhet': 8, 'välvilja': 27, 'vänlighet': 34};Den berättar enkelt om ondska och godhet mörker och ljus.;1;1;0
+obekant;17;{'främmande': 420, 'okänd': 271};Datorn är inget obekant arbetsredskap för Folktandvårdens anställda.;1;1;0
+precision;79;{'exakthet': 9, 'noggrannhet': 20};Med klinisk precision klingar såväl piano och stråkar som mystiska ljudlandskap in i kroppen.;1;0;0
+artikulera;4;{'uttala': 199};Någonstans måste man som medborgare kunna artikulera kritik mot makten.;1;1;1
+stråla;22;{'radiera': 0};Jag går och går och går och värmen strålar från mina hälar upp genom mina ben och jag har aldrig känt mej så rofylld förut i hela mitt liv.;1;1;0
+beväpna;2;{'bepansra': 0, 'bestycka': 0, 'rusta': 51};Planet kan även beväpnas för att användas som lätt attackplan.;1;1;0
+ljuda;51;{'klinga': 7, 'klämta': 0, 'låta': 2754, 'tona': 66};Det går så hett till att inbrottslarmet börjar ljuda.;1;1;1
+sammanslagning;42;{'fusion': 118, 'förening': 150, 'samgående': 4, 'union': 71};Det grundades år 1901 genom en sammanslagning av 13 mindre tillverkare.;1;0;1
+kvot;15;{'andel': 317};Beloppet av fältet definieras som kvoten mellan kraftens belopp och laddningens storlek.;1;1;1
+plågsam;45;{'smärtsam': 52};Min ensamhet känns plågsam.;1;1;0
+konstgjord;27;{'artificiell': 20, 'onaturlig': 17, 'syntetisk': 20};Problemet är bara att en indelning i perioder som decennier är konstgjord.;1;1;0
+inrymma;0;{'härbergera': 0, 'inkludera': 71};Projekten inrymmer studier av kroppssammansättning fysisk aktivitet och insulinkänslighet hos unga kvinnor med Typ1 diabetes.;1;0;1
+debitera;4;{'påföra': 0};Årsagiften 50 kr debiteras separat.;0;0;1
+försena;9;{'fördröja': 28};Tyvärr händer det också att hjälpen inte alltid når fram i tid humanitära insatser avbryts eller försenas på grund av beväpnat våld.;1;0;0
+omkomma;2;{'avlida': 63, 'stupa': 16};En 65årig man omkom vid en trafikolycka på en mindre väg utanför Horred i går eftermiddag.;1;0;1
+lindra;98;{'dämpa': 107, 'hjälpa': 3676, 'lätta': 512, 'mildra': 9};Salvan lindrar även besvär som skavsår sprickor på fingertopparna stickor i fingrarna samt skärsår.;1;1;0
+rotera;26;{'snurra': 160, 'vrida': 204};Bilden roteras 90 grader medurs.;1;1;0
+urskilja;69;{'skönja': 17};Är vi verkligen så bra på att urskilja autentiska väskor bland budgetalternativ;1;1;0
+tolerera;14;{'tåla': 99};Där har man enats i frågan om att aldrig tolerera våld i samband med matcher.;1;0;0
+påbud;12;{'dekret': 7};Det utgick ett påbud att alla fönster skulle mörkläggas.;1;0;1
+sätt;2015;{'fason': 13, 'metod': 358, 'taktik': 144};Det finns två olika sätt att möra kött.;0;1;0
+applicera;592;{'påföra': 0};Kokain kan också injiceras under huden eller i en ven eller appliceras direkt på slemhinnorna i munnen ändtarmen eller slidan.;0;0;0
+blomma;411;{'blomstra': 21};Mammas fina gammeldags rosor blommar nu.;1;1;0
+uthärda;6;{'disk': 236, 'fördraga': 1, 'genomlida': 40, 'tåla': 99, 'utstå': 97};Kanske var det därför hon också uthärdade mannens galenskap och våld.;0;1;0
+oriktig;0;{'felaktig': 129, 'inkorrekt': 6, 'osann': 6};Frågan var vilka som givit reportrarna på de tidningarna oriktig information om massförstörelsevapnen och Valerie Plames namn.;1;0;0
+beskåda;60;{'bese': 0, 'betrakta': 125, 'iaktta': 26, 'se': 2998, 'titta': 3957, 'åse': 3};Allt från mord och dansande ryska sjömän till svävande damer har kunnat beskådas i den annars så lugna sommarstaden.;1;0;0
+färja;62;{'båt': 507};Mot Vesterålen finns det färjor mellan Fiskebøl och Melbu.;1;0;0
+sammanträda;5;{'mötas': 153, 'träffa': 4};Forskningsrådet kommer att sammanträda den 22 juni.;1;1;1
+instruera;14;{'dirigera': 7, 'handleda': 3, 'leda': 918, 'lära': 2592, 'undervisa': 95, 'utbilda': 190};Åt helvete är det om Bodström blandat sig i för att ett annat land instruerat honom att göra så.;0;0;1
+oväsen;24;{'buller': 55, 'dån': 4, 'oljud': 20, 'skrammel': 8, 'skrän': 9};Plötsligt blev det ett fruktansvärt oväsen rassel och skrammel av kätting väsande av vatten och miljoner gnistor flög upp in i den darrande rökpelare som stod något på lut ovanför fartyget.;0;1;0
+stinka;20;{'osa': 21};Vi vill inte att folk ska tycka att vi stinker.;0;1;0
+rangordna;14;{'klassindela': 0, 'numrera': 3};GP försöker rangordna möjligheterna.;1;1;1
+underminera;15;{'försvaga': 21, 'sabotera': 21, 'undergräva': 6, 'urholka': 9};Händelser som Natoattacken underminerar de ansträngningarna.;1;1;1
+befästa;13;{'cementera': 5, 'fastslå': 16, 'fastställa': 49, 'klubba': 66, 'stärka': 345, 'säkerställa': 91, 'säkra': 343, 'trygga': 122};Det belgiska Airpower befäster ytterligare sin ställning som koncernens vinstrikaste produktionsenhet.;0;1;1
+ödelägga;9;{'fördärva': 9, 'förstöra': 536, 'totalförstöra': 1};Israel demolerar det palestinska jordbruket och ödelägger ekonomin med hjälp av bulldozrar bomber och blockader.;1;1;1
+allé;11;{'trädrad': 0};Mellan körbanorna på östra delen av Valhallavägen går en allé med en kombinerad gång och cykelväg.;1;1;1
+herravälde;16;{'dominans': 75, 'imperium': 50, 'styre': 140, 'övertag': 46};Själv är jag fångad i min sambos herravälde.;1;1;1
+avvärja;13;{'avstyra': 11, 'förhindra': 419, 'hejda': 74, 'parera': 30};En 27åring fick skador i händerna när han försökte avvärja knivhuggen.;1;1;1
+deprimerad;271;{'ledsen': 2226, 'nedstämd': 74, 'nere': 2955};Hade inte hans sinnesstämning varit så deprimerad skulle han ha känt lite av den gamla kittlingen.;1;1;0
+uppgradera;144;{'aktualisera': 1, 'uppdatera': 1096};Depressionen ökade i styrka och uppgraderades till en tropisk storm senare samma dag.;0;0;0
+associera;29;{'förbinda': 4, 'förknippa': 36, 'koppla': 306, 'sammankoppla': 4};Sackaros associeras också med lägre hjärtfrekvens minskat ansiktsuttryck och mindre motorisk aktivitet efter administration.;1;1;1
+smeka;43;{'karessera': 0, 'kela': 27};Erna smekte honom försiktigt över handryggen men det märkte han inte heller.;0;0;0
+förordna;0;{'tillsätta': 102, 'utse': 131};Ledamöter och ersättare förordnas av regeringen för en tid av högst tre år.;1;1;1
+rytm;55;{'puls': 223, 'takt': 347, 'upprepning': 32};Havets dån är både skrämmande och roingivande i sin monotona rytm.;1;1;0
+vålla;2;{'framkalla': 124, 'föranleda': 3, 'förorsaka': 3, 'orsaka': 145, 'åsamka': 6};Det måste finnas en utlösande infektion som vållar sjukdomen.;1;1;0
+förolämpa;13;{'förnedra': 28, 'förödmjuka': 4, 'kränka': 52, 'skymfa': 2, 'såra': 105};Du tror att du kan förolämpa och förödmjuka och hota dina gäster.;1;1;0
+skicklighet;50;{'färdighet': 60, 'förmåga': 706, 'handlag': 3, 'kompetens': 296};Monas skicklighet som partiledare sätts på prov nu.;1;1;0
+eskortera;3;{'leda': 918};Clemenceau eskorteras av två robotjagare samt förrådsfartyget Meuse.;1;1;1
+paj;298;{'trasig': 281};Jag trevar efter avstängningsknappen jag minns att den är paj jag når inte sladden jo kanske om jag bara ...;1;0;0
+förutsägelse;4;{'prognos': 22};Vi beskådar nu samma fenomen med förutsägelser om arbetskraftens rörlighet från de nya medlemsstaterna.;1;0;0
+befalla;0;{'beordra': 18, 'kommendera': 1};Hon befallde sen flickan att tvätta av sina händer ta på sig kappan och komma med.;1;1;0
+understödja;7;{'hjälpa': 3676, 'stötta': 238};Jag understödjer henne på denna punkt.;1;0;1
+tonvikt;28;{'betoning': 61};Att kommissionen lägger tonvikt på att skapa välstånd i Europa är uppskattat och behövligt.;1;0;1
+ackumulera;0;{'hopa': 1, 'lagra': 57, 'samla': 619};I dag är det mycket svårt att ackumulera pensionsrättigheter som intjänas i olika länder efter varandra.;1;1;1
+värka;46;{'mola': 1};Sår ytlig skada på kroppen som kan blöda och värka.;1;0;0
+klassificera;6;{'gradera': 3, 'indela': 3, 'klassa': 31, 'ordna': 443};I båda länderna klassificerar miljöskyddsmyndigheterna varg som direkt hotad på de nationella rödlistorna.;1;1;1
+kretsa;14;{'cirkla': 6, 'cirkulera': 41, 'snurra': 160};Runt omkring oss kretsar stewarden Salvatore uppmärksamt.;0;0;0
+irritera;42;{'besvära': 6, 'enervera': 0, 'förarga': 5, 'förtörna': 0, 'reta': 43, 'störa': 281};Ytterligare ett skäl är att en sådan skattehöjning skulle irritera människor.;1;1;0
+hög;2941;{'påtänd': 6, 'påverkad': 129};Enligt tidningen People ska han ha varit hög på marijuana redan under premiären av dem tredje Harry Potterfilmen Fången från Azkaban.;1;1;0
+dofta;102;{'lukta': 274};Det har blivit allt viktigare att vara fräsch och att dofta gott i varje skrymsle.;1;1;0
+svida;97;{'bränna': 463};Såren svider.;1;0;0
+darra;26;{'skaka': 160, 'skälva': 2};Skam till sägandes läppen började darra på honom.;1;1;0
+fadd;6;{'unken': 16};Pastasalladen är lite smaklös och fadd borde kryddas.;0;0;0
+fuktig;98;{'våt': 41};En bra pajdeg är gul i färgen och lite fuktig.;1;0;0
+kärl;43;{'behållare': 41, 'bunke': 260, 'cistern': 0, 'krus': 6, 'skål': 706, 'tillbringare': 6, 'tråg': 4};Mindre kärl är vackra prydnadsföremål men kan också komma till användning i ett nutida hem.;0;1;0
+allergisk;282;{'överkänslig': 48};Ida är allergisk mot myggbett.;1;0;0
+stelna;152;{'hårdna': 2, 'koagulera': 10, 'styvna': 0};När lavan stelnar omvandlas den till berg.;1;1;0
+svälla;66;{'expandera': 55, 'jäsa': 283, 'tjockna': 5, 'växa': 733};Om fröerna sväller och spricker upp så är de inte för gamla.;1;1;0
+kräkas;218;{'spy': 326, 'uppstöta': 0, 'vomera': 2};Hon kräktes gallan.;1;1;0
+separera;58;{'avskilja': 4, 'dela': 3163, 'skilja': 237, 'särskilja': 24, 'åtskilja': 2}; En ny påfart ska kunna separera trafiken till Köpstaden från bostadstrafiken och därmed avlasta Ekenleden förklarar Christer Olsson på Flygfältsbyrån som varit med och tagit fram förslagen.;1;1;0
+tysta;140;{'dämpa': 107, 'hyssja': 1};Han har i alla fall tystat den tidigare kritiken med sitt aktiva sätt att sköta matchningen under spel.;1;1;0
+filtrera;20;{'sila': 40};Oftast filtreras också vinet före buteljering ett förfarande som tyvärr tar bort en del av smakämnena.;1;1;1
+borsta;379;{'skrubba': 84};Liam borstar tänderna med sin eltandborste han fick i julklapp.;1;1;0
+dån;4;{'buller': 55, 'dunder': 43, 'muller': 8, 'oväsen': 24};Ett dån från rymdraketen mullrar ut i högtalarna.;1;1;0
+förfoga;7;{'disponera': 12};Eleverna förfogar över egna bärbara datorer under tre år;0;0;1
+steka;333;{'bryna': 16};När man steker ägg blir de bäst om stekpannan inte är alltför het.;1;1;0
+enastående;56;{'bra': 46725, 'exceptionellt': 32, 'fantastisk': 2309, 'lysande': 296, 'storartad': 16, 'suverän': 124, 'utmärkt': 601, 'utomordentlig': 15, 'ypperlig': 28};Det är en enastående förnämlig tonsättare för mig har hans musik gjort ett väldigt överraskande intryck eftersom den är så varierad i ett flödande parlando.;1;1;0
+fullborda;13;{'avsluta': 820, 'fullfölja': 75, 'fullgöra': 8, 'fullända': 5, 'färdigställa': 48, 'genomföra': 562, 'slutföra': 61};Mannen fullbordade ett rån och sprang sedan från platsen.;1;1;0
+kidnappa;22;{'röva': 8};En dag kidnappar han ett barn från ett dagis säger Johan Gry.;1;0;1
+gnida;15;{'gno': 3, 'gnugga': 105, 'putsa': 66, 'stryka': 172};Huden fuktas och gnids in med en tablett acetylsalicylsyra på stickstället eller en tablett löses i ca 30 ml vatten och det bitna området baddas med en bomullstuss eller liknande.;1;1;0
+utrusta;7;{'förse': 54};Samtidigt utrustade polisen honom med skyddsväst och tårgasspray;1;1;0
+dröjsmål;3;{'fördröjning': 37, 'försening': 41};Jag misstänker ändå att det just är en sådan taktik som ligger bakom dröjsmålet av arbetet med införandet av vårdval.;1;1;0
+smycke;264;{'bijouteri': 0};Lina M. är designern som skapar unika smycken till ditt bröllop.;1;1;0
+härma;84;{'efterapa': 5, 'efterlikna': 37, 'imitera': 16}; Mamma lillebror härmar en fågel;1;1;0
+addera;67;{'summera': 81};Nästa steg är att dela n med två om det är jämnt eller multiplicera det med tre och addera ett om det är udda.;0;0;0
+häkta;2;{'anhålla': 4};Det är dock ovanligt att man häktar en tidigare ostraffad 15åring.;1;1;0
+förstora;112;{'utvidga': 55, 'utöka': 177, 'vidga': 47};Håll ner ctrl och snurra på mushjulet så kan du förstora eller förminska text och bilder.;1;0;0
+spegelbild;52;{'reflexion': 6};Ett sådant rollbyte äger rum i slutet av Lagerkvists novell  då ynglingen ser sin spegelbild i källan.;1;1;0
+trendig;63;{'moderiktig': 7};Tantblomman har blivit trendig;1;1;0
+oavbruten;2;{'fortlöpande': 21, 'fortskridande': 5, 'ihållande': 19, 'kontinuerlig': 27, 'oupphörlig': 0, 'stadigvarande': 6, 'ständig': 332, 'utgörs': 58};Globalisering och framgångsrik kamp mot inflationen skulle leda till oavbruten ekonomisk uppgång.;1;1;0
+tillfreds;91;{'belåten': 96, 'nöjd': 79};Inte för att det alls spelar någon roll men jag känner mig mer än tillfreds med mitt inköp.;1;1;0
+anskaffa;2;{'förvärva': 9, 'införskaffa': 233, 'inhämta': 16, 'köpa': 49, 'rekvirera': 0, 'skaffa': 1263};Enligt Artikel I får en fördragsstat under inga omständigheter anskaffa eller inneha biologiska vapen;1;1;1
+lim;97;{'klister': 33};I övre hörnet av de falska finländska sedlarna har hologrammet fästs med lim.;1;1;0
+sammandrag;10;{'sammanfattning': 324, 'summering': 48};Artikeln är ett sammandrag från Klimat och Sårbarhetsutredningens bilaga B34 skriven av Elisabet Lindgren...;1;1;1
+aveny;9;{'boulevard': 6};Här ligger Avenida de los Presidentes en bred trädkantad aveny med lyxiga byggnader från 1800 och 1900talen.;1;1;1
+smaklös;20;{'gräslig': 35};Får man ha sån smaklös frisyr när man borde vara vuxen;1;0;0
+försegla;5;{'barrikera': 0, 'försluta': 4, 'plombera': 0, 'tillsluta': 1};Det handlar om övertäckningsplanen som går ut på att bygga en ny betonghall för att försegla den kärnreaktor i Tjernobyl som havererade våren 1986.;1;1;0
+böna;22;{'vädja': 25};Andra kan hamna hos dem som kör med sina lärlingar och där de får böna och be för att få göra något vettigt.;1;1;1
+differentiera;0;{'skilja': 237};Man differentierar åldersintervallen och definierar ett barn som en minderårig till och med 12 års ålder.;1;1;0
+klibba;4;{'kleta': 36};Leran klibbade under hennes skor.;1;1;0
+utfrågning;18;{'förhör': 60, 'hearing': 32};Det blev en långdragen utfrågning om allt från hennes uppväxt i Småland till den kristna uppfostran skolan och hennes förhållande till killar under tonåren.;1;1;0
+avbrott;85;{'uppehåll': 252};Det var tur vi fick ett avbrott för paus.;1;1;0
+nominera;98;{'föreslå': 110, 'utnämna': 10, 'utse': 131};Regeringen har nominerat Cecilia Malmström till ny svensk EUkommissionär.;1;1;0
+lukt;107;{'arom': 24, 'doft': 943, 'stank': 49};Han stod orörlig och kände värmen stiga från det nya lagret en svagt stickande lukt av bränt trä.;1;1;0
+anteckna;61;{'notera': 173, 'skriva': 321};Maja Lundgren vet mer och antecknar allt hon ser och hör.;1;1;0
+anseende;47;{'aktning': 7, 'rykte': 267};Givetvis finns risk för att Barncancerföreningen kan ha förlorat i anseende.;1;1;1
+peta;157;{'pilla': 307};Drar tillbaka handen knycker oavhängigt på huvudet och fortsätter att peta i näsan.;1;1;0
+manifestera;20;{'demonstrera': 80, 'uttrycka': 435};Sjukdomen manifesteras ibland av akuta komplikationer som tarmobstruktion perforation fistlar eller gastrointestinal blödning.;1;1;1
+underlåta;3;{'försumma': 13};I det här sammanhanget kan jag emellertid inte underlåta att peka på de borgerliga partiernas agerande eller snarare brist på agerande i den här frågan.;1;0;1
+pyssla;594;{'dona': 81, 'fixa': 0, 'knåpa': 103, 'syssla': 125};Hennes intressen är naturen katterna och att pyssla med växter.;1;1;0
+såra;105;{'skada': 361};Hannarna kan till och med såra varandra under striden.;1;1;0
+framhäva;113;{'betona': 39, 'framhålla': 21, 'främja': 128, 'poängtera': 162, 'påpeka': 301, 'understryka': 42};Clinton var noga med att inte framhäva någondera sidan framför den andra under besöket i Belfast och senare på dagen i Londonderry.;1;1;0
+blomstra;21;{'blomma': 411};Kinas ekonomi blomstrar och det är väl ingen vågad gissning att många kineser kommer hit och sätter sprätt på sina YEN.;1;1;0
+avbilda;16;{'måla': 1342, 'porträttera': 1, 'skissa': 46, 'återge': 47};Det förra århundradet hade Gunder avbildat konstnärinnan Anna Maria Ehrenstrahl i ett porträtt.;1;0;0
+dumpa;58;{'kasta': 322, 'lämna': 2541, 'slänga': 1304, 'släppa': 1240, 'tippa': 95};De desperata föräldrarna fann ingen annan råd än att en dimmig kväll 1937 dumpa bilen i sjön.;1;1;0
+förkorta;24;{'avkorta': 0, 'minska': 1149};Arbetsministeriet vill förkorta tiden för civiltjänstgöring.;1;1;0
+kylig;40;{'kall': 857, 'kulen': 7, 'sval': 79};Om det är kyligt eller regnigt så tag med varma överdragskläder.;1;1;0
+frånta;6;{'beröva': 11};Genom detta besked har Folkpartiet fråntagit parterna möjligheterna att finna en lösning genom förhandling.;1;1;0
+påhitt;101;{'påfund': 31};Bara ännu ett påhitt av beslutsfattare för att se till att kvinnor underordnar sig.;1;1;0
+mager;69;{'benig': 7, 'förtorkad': 0, 'knapphändig': 5, 'krank': 0, 'nätt': 43, 'slank': 141, 'smal': 634, 'spenslig': 0, 'spinkig': 8, 'tanig': 6, 'tunn': 382, 'tärd': 3, 'undernärd': 14, 'utmärglad': 9};Möjligen påminner den magre i sin skelettlikhet alltför mycket om döden.;1;1;0
+kortvarig;29;{'flyktig': 17, 'temporär': 29, 'tillfällig': 139, 'övergående': 32};Som om det kortvariga uppvaknandet aldrig skett.;1;1;0
+attentat;22;{'terrordåd': 38, 'våldsangrepp': 1, 'våldsdåd': 42};Baraks förlust har tre huvudförklaringar Israelernas besvikelse över att hans fredspolitik bara ledde till en palestinsk uppresning med nästan dagliga attentat och attacker mot israeler.;1;1;0
+förhöra;13;{'utfråga': 0};Under förmiddagen förhörde polisen vittnen vid Kyrktorget.;1;1;0
+förträfflig;45;{'bra': 46725, 'kanon': 692, 'lysande': 296, 'suverän': 124, 'utmärkt': 601};Han lagar förträfflig falafel och gör finfin fetaröra.;1;1;0
+;;;;130;108;43
