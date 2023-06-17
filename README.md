@@ -16,3 +16,7 @@ SynLex: http://folkets-lexikon.csc.kth.se/synlex.html
 
 SALDO:  https://spraakbanken.gu.se/resurser/saldoe 
 
+## How to cite this work:
+
+
+
