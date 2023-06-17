@@ -18,5 +18,23 @@ SALDO:  https://spraakbanken.gu.se/resurser/saldoe
 
 ## How to cite this work:
 
+@thesis{Graichen2023,
+title = {Context-aware Swedish Lexical Simplification
+
+– Using pre-trained language models to propose contextually
+
+fitting synonyms},
+
+author = {Graichen, Emil},
+
+year = {2023},
+
+school = {Linköpings Universitet},
+
+type = {bathesis},
+
+  address = {Linköping, Sweden},
+  
+}
 
 
